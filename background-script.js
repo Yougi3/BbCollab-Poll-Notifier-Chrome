@@ -6,7 +6,7 @@ chrome.runtime.onMessage.addListener(function(message, sender, sendResponse) {
       "type": "basic",
       "iconUrl": chrome.extension.getURL("icons/icon-48.png"),
       "title": "⚠️ Nouveau sondage disponible !",
-      "message": "Un nouveau sondage est disponible sur la classe virtuelle. Penses à y répondre !"
+      "message": "Un nouveau sondage est disponible sur la classe virtuelle. Pense à y répondre !"
     }, function(id) {
       notificationId = id;
     });
