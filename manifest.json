@@ -2,10 +2,11 @@
   "manifest_version": 2,
   "name": "BbCollab Poll Notifier",
   "description": "Recevez une notification dès la publication d'un sondage sur les classes virtuelles Blackboard Collaborate.",
-  "version": "1.3",
+  "version": "1.0",
   "icons": {
     "48": "icons/icon-48.png",
-    "96": "icons/icon-96.png"
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
   },
 
   "permissions": ["notifications"],
