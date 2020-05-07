@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "BbCollab Poll Notifier",
-  "description": "Cette extension vous envoie une notification dès qu'elle détecte la publication d'un nouveau sondage sur les classes virtuelles BbCollab.",
-  "version": "1.2",
+  "description": "Recevez une notification dès la publication d'un sondage sur les classes virtuelles Blackboard Collaborate.",
+  "version": "1.3",
   "icons": {
     "48": "icons/icon-48.png",
     "96": "icons/icon-96.png"
