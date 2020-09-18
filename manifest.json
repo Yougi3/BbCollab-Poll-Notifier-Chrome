@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
+  "default_locale": "fr",
   "name": "BbCollab Poll Notifier",
-  "description": "Recevez une notification dès la publication d'un sondage sur les classes virtuelles Blackboard Collaborate.",
-  "version": "1.0",
+  "description": "__MSG_extensionDescription__",
+  "version": "1.1",
   "icons": {
     "48": "icons/icon-48.png",
     "96": "icons/icon-96.png",
@@ -15,7 +16,7 @@
     "scripts": ["background-script.js"],
     "persistent": false
   },
-  
+
   "content_scripts": [
     {
       "matches": ["*://*.bbcollab.com/*"],
